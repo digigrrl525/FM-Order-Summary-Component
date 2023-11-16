@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Screenshot
 
-![/screenshots/desktop-blockton.png]
-![/screenshots/mobile-blockton.png]
+![Desktop](/screenshots/desktop-blockton.png)
+![Mobile](/screenshots/mobile-blockton.png)
 
 ### Links
 
